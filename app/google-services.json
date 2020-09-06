@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "992177315469",
+    "firebase_url": "https://findmyhome-765c0.firebaseio.com",
+    "project_id": "findmyhome-765c0",
+    "storage_bucket": "findmyhome-765c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992177315469:android:d16a5361a45bcfe9274cc4",
+        "android_client_info": {
+          "package_name": "com.example.findmyhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992177315469-71872ufkoenm7r4pbip20chmk9teivso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.findmyhome",
+            "certificate_hash": "8021598edd096228724c5112f7c311f77e6c965d"
+          }
+        },
+        {
+          "client_id": "992177315469-ud49sjugbqf5ll4i1cm1vmhd3111841o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoOaLHWwhJijG0FQlTFABVgEPj-KDUlXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992177315469-ud49sjugbqf5ll4i1cm1vmhd3111841o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
